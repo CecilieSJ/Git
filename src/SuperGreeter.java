@@ -12,9 +12,6 @@ public class SuperGreeter {
         System.out.print("Hvor gammel er du?");
     }
 
-
-    //laver objektet her og kalder dem
-
     public static void main(String[] args){
         SuperGreeter navnPerson = new SuperGreeter();
         navnPerson.denFørsteMetode();
